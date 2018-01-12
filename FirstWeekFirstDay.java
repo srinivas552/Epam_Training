@@ -13,6 +13,6 @@ public class FirstWeekFirstDay {
     // Main method to be called by JVM
     public static void main(String args[]) {
 	// Printing output
-	System.out.println("Hello RD");
+		System.out.println("Hello RD");
     }
 }
